@@ -67,6 +67,11 @@ p {
     text-decoration: none;
 }
 
+/* nav bar hover effect */
+.nav a:hover{
+    color: #acaaaa;
+}
+
 /* banner */
 .hero {
     height: 800px;
