@@ -4,7 +4,7 @@
 
 To improve the quality and quantity of the webpage, and also optimize the website for the search engine. I refactor the codebase to follows accessibility standards.
 By using the semantic HTML element and organizing the CSS properties, the webpage has a consolidated and firm structure.
-This is not only improved the speed of loading for the user, and also raise the ranking for SEO as well.
+This is not only improved the loading speed for the user, and also raise the ranking for SEO as well.
 The properly commented make the base code to be maintained easily.
 
 by completing this task, I got familiar with how to create a clean and logical structure webpage.
