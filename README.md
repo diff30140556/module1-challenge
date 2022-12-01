@@ -18,9 +18,9 @@ N/A
 To navigate this page, please [Click Here](https://diff30140556.github.io/module1-challenge/).
 When you open the Chrome DevTools by pressing Command+Option+I (macOS) or Control+Shift+I (Windows). A console panel should open on the webpage in the browser. You can see the structure on the console panel. Below is the demo:
 
-    ```md
-    ![This is the demo](Develop/assets/images/screenshot.png)
-    ```
+    
+![This is the demo](https://github.com/diff30140556/module1-challenge/blob/main/Develop/assets/images/screenshot.png?raw=true)
+    
 
 ## Credits
 
